@@ -1,12 +1,12 @@
 {
-  "name": "twilight-refined",
+  "name": "twilight-textmate-syntax-refined",
   "theme": "syntax",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "The Twilight theme, refined, for Atom.",
-  "repository": "https://github.com/fredwu/twilight-refined",
+  "repository": "https://github.com/aLANparty/twilight-textmate-syntax-refined",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">=1.13"
   },
   "dependencies": {}
 }

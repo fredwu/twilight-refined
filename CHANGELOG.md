@@ -1,14 +1,4 @@
-## 0.1.3
+## 1.0.0
 
-- expand README info
-- fix tab-guide color when no tabs are present on a line
-- add border to selected line number to match TextMate2
-
-## 0.1.2
-
-## 0.1.1
-
-## 0.1.0 - First Release
-
-- Every feature added
-- Every bug fixed
+* Fork [twilight-refined](https://github.com/fredwu/twilight-refined)
+* Update to Atom 1.13 and higher syntax.
