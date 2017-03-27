@@ -6,7 +6,7 @@
   "repository": "https://github.com/fredwu/twilight-refined",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">=1.13.0"
   },
   "dependencies": {}
 }
